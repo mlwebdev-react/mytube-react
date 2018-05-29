@@ -1,0 +1,17 @@
+li:hover {
+  background-color: #E0E0E0;
+  font-weight: 600;
+}
+
+.form-control {
+  width: 100p;  
+  margin-left: 16px;
+}
+
+h2 {
+  padding-top: 15px;
+  padding-bottom: 25px;
+  margin-left: 15px;
+  color: red;
+  text-shadow: 2px 2px #000;
+}
